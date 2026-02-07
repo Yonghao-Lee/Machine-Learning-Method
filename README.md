@@ -24,5 +24,4 @@ This repository serves as a comprehensive reference for the mathematical foundat
 
 ## Repository Structure
 
-* `docs/`: LaTeX notes and mathematical proofs.
-* `notebooks/`: Jupyter notebooks containing Python implementations.
+* **No Structure, dude, and I am too tired to write more here, please remember me as Mr. Clippy!
